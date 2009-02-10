@@ -1,0 +1,17 @@
+e1bc2ba48238c480246e9ea2090f31f3 *DESCRIPTION
+c65ee6967e737e59d146ce750fb49ecb *NAMESPACE
+9983f25b22141a24596382e3167b2a75 *R/Baseline.Correction.R
+99291ce77a484a57bf4c3d53fa766afe *R/Fid.R
+f973078f8bd3d5f10db4530066dc0d7e *R/Manual.cut.R
+69b3ac66882a67ffd097f39f6c16f165 *R/Met.FID.R
+058e19f50d3110c0d6087d54279ed7af *R/Met.spectrum.R
+1e4dcd3863e8f8f16d037137708a944f *R/NMRS.R
+937a31b92d78f6c80fb42a89130e3e0e *R/phase.R
+45278816f051caa431f0623650805be8 *man/Baseline.Correction.Rd
+8fd12bfc0e61d3da9040dabeba0f5b38 *man/Fid.Rd
+428060c96c61f73fda3ed3d874865b05 *man/Manual.cut.Rd
+379c80c2395b728413a21d47c95c96a4 *man/Met.FID.Rd
+4665e0920a7e7ab1732f9896fac4f1a1 *man/Met.spectrum.Rd
+bde9aa3ead376ab358ba1ca754c9e3eb *man/NMRS-package.Rd
+a9dc64cc69f8accd4e6d1fa94cc34e48 *man/NMRS.Rd
+9b0747f336c57b1d651f0e8e931d08ff *man/phase.Rd
